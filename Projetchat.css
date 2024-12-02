@@ -1,6 +1,7 @@
 img {
     width: 350px;
     height: 350px;
+    margin-right: 50px;
 }
 
 main article {
@@ -9,6 +10,4 @@ main article {
     margin: auto;
 }
 
-img {
-    margin-right: 50px;
-}
+
