@@ -1,0 +1,26 @@
+footer{
+    background-color: cadetblue;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
+
+footer a{
+    text-decoration: none ;
+    color: black;
+    border: solid ;
+    border-radius: 5px;
+    text-align: center;
+        
+}
+
+footer ul{
+    display: flex;
+    margin: 15px;
+    align-content: space-between;
+}
+
+footer li{
+    margin: 20px;
+}
+
