@@ -2,9 +2,7 @@ footer{
     background-color: cadetblue;
     color: aliceblue;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    
+    flex-direction: row;
 }
 
 footer a{
@@ -13,8 +11,6 @@ footer a{
     border: solid ;
     border-radius: 5px;
     text-align: center;
-    background-color: rgb(210, 30, 198);
-
         
 }
 
@@ -22,20 +18,10 @@ footer ul{
     display: flex;
     margin: 15px;
     align-content: space-between;
-    list-style-type: none;
-    text-transform: uppercase;
-}
-
-footer div{
-    padding-bottom: 35px;
-    font-size: 20px;
-    
 }
 
 footer li{
     margin: 20px;
-    padding: 30px;
-    font-weight: bolder;
-    font-size: 30px;
 }
+
 
