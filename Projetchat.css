@@ -42,3 +42,15 @@ header ul li a:hover {
     color: #FFD700;
 }
 
+img {
+    width: 350px;
+    height: 350px;
+    margin-right: 50px;
+}
+
+main article {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+}
+
