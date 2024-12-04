@@ -14,7 +14,7 @@ header {
 
 header h1 {
     font-size: 1.8rem;
-    color: #FFD700; 
+    color: #FFD700;
     margin: 0;
 }
 
@@ -41,5 +41,3 @@ header ul li a {
 header ul li a:hover {
     color: #FFD700;
 }
-
-
