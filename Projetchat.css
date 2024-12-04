@@ -1,15 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 header {
     background-color: #333;
     color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 20px;
-    position: fixed;
+    padding: 15px 25px;
+    margin-bottom: 50px;
     top: 0;
     width: 96%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     z-index: 1000;
+    margin-left: 0%;
+    
 }
 
 header h1 {
@@ -46,11 +52,13 @@ img {
     width: 350px;
     height: 350px;
     margin-right: 50px;
+    margin-left: 25px;
 }
 
 main article {
     display: flex;
     max-width: 1200px;
     margin: auto;
+   
 }
 
